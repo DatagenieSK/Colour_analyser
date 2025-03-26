@@ -62,7 +62,8 @@ def answer_question(question, colors, percentages):
     else:
         return "I can answer questions related to dominant color, complementary color, or warm/cool classification."
 
-st.title("VQA for Colors and Color Theory")
+st.title("🌿 WishCare Color Analyzer - Developed by SK Alauddin")
+
 
 st.markdown("""
 ### 🎨 Welcome to Color Explorer!
